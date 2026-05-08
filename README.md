@@ -8,3 +8,4 @@ Python Novel Game Engine (Gemini Edition)このプロジェクトは、Pythonと
     ]
 }
 🎮 操作方法マウス左クリック: メッセージの進行 / 選択肢の決定。スペースキー: タイトル画面でのスタート / クリア・オーバー画面からのリスタート。ESCキー: プレイ中のコンフィグ画面（設定）の開閉。🛠 カスタマイズのヒント画像の使用: 現在はキャラクターを楕円（ellipse）で描画しています。Characterクラスのdrawメソッドを、pygame.image.loadを使用した画像描画（blit）に書き換えることで、イラストを表示できます。フォント: 日本語が表示されない場合は、pygame.font.SysFontにインストール済みの日本語フォント名（"MS Gothic"など）を指定するか、.ttfファイルを直接読み込んでください。📜 ライセンスこのコードは自由に改変・配布可能です。学習や創作活動にぜひお役立てください！
+<img width="995" height="780" alt="スクリーンショット 2026-05-08 092025" src="https://github.com/user-attachments/assets/36018dd4-f23e-4e18-9eb9-58c7368ed56e" />
